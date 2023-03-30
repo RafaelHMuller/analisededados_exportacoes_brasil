@@ -32,9 +32,12 @@ Tabela das cidades que mais exportaram, em termos de valor (US$), em 2020:<br>
 * Sistema operacional Windows
 * IDE de python (ambiente de desenvolvimento integrado de python)
 * Microsoft Office (Excel)
+* Navegador web (para acessar o link de download do Google Chrome referente à base de dados)
 
 ## Execução
 
+Inicialmente, deve-se fazer o download do arquivo csv referente à base de dados no link público do Google Drive: https://drive.google.com/drive/folders/1109oh-9q-65BF7uUjYG45q9PPgM0Ir5x?usp=share_link
+<br>
 Na execução deste código, toda a análise de dados, criação de tabelas e visualização gráfica não são exportados. A parte do código responsável pela leitura da enorme base de dados (+3GB) somente se aplica ao meu computador, uma vez que tive que armazenar a base de dados em meu HD externo, logo este código em específico deve ser adaptado ao local no qual o usuário salvou a base de dados excel.
 
 ## Bibliotecas
